@@ -1,14 +1,12 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shashwat Sahu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coading" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahu-shashwat&label=Profile%20views&color=0e75b6&style=flat" alt="sahu-shashwat" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shashwatsahu20" target="blank"><img src="https://img.shields.io/twitter/follow/shashwatsahu20?logo=twitter&style=for-the-badge" alt="shashwatsahu20" /></a> </p>
 
-- 🌱 I’m currently learning **Recat.js/next.js**
-
-- 💬 Ask me about **Python / SQL / JavaScript**
+- 💬 Ask me about **Python / SQL / Django**
 
 - 📫 How to reach me **shashwatsahu780@gmail.com**
 
